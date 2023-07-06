@@ -1,0 +1,33 @@
+.heading{
+    color: rgb(44, 44, 104);
+    text-align: center;
+}
+.image1{
+    width:40%;
+    border-radius: 50px 150px;
+    padding: 15px;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.image2{
+        width: 25%;
+        margin-left: 25%;
+        border-radius: 50px 200px;
+        padding: 15px;
+            border: solid gray 1px;
+                padding: 20px;
+                /* margin-left: 1%; */
+}
+.image3{
+        width: 20%;
+        border-radius: 50px 150px;
+        padding: 15px;
+
+            border: solid gray 1px;
+                padding: 20px;
+                margin-left: 1%;
+}

@@ -1,0 +1,49 @@
+.changed{
+    color: rgb(180, 151, 206);
+}
+.therapist {
+    color: rgb(68, 144, 87);
+}
+.ment{
+    border: solid gray 1px;
+    padding: 20px;
+    margin-left: 5%;
+    width: 50%;
+    /* text-align: left; */
+    /* text-align: center; */
+}
+.ment2{
+        border: solid gray 1px;
+            padding: 20px;
+            margin-right: 3%;
+            width: 50%;
+}
+.ment3 {
+    border: solid gray 1px;
+    padding: 20px;
+    margin-right: 3%;
+    width: 60%;
+
+}
+.ment1{
+display: flex;
+justify-content: space-between;
+
+}
+
+.mob {
+    color: green;
+}
+
+/* .highlighted {
+    background-color: rgb(41, 193, 97);
+} */
+
+.new-font {
+    font-family: Helvetica;
+    color: green;
+}
+
+.new-font-size {
+    font-size: 24px;
+}
